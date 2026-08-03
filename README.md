@@ -1,30 +1,48 @@
 # Jiho Lee
 
-I am interested in medical AI, multimodal representation learning, and graph
-neural networks for biomedical research.
+### Medical AI · Radiogenomics · Graph Neural Networks
 
-My current work explores how imaging phenotypes and genomic information can be
-integrated into interpretable machine-learning systems. I am especially
-interested in careful experimental design for small-cohort biomedical data.
+의료영상과 유전체 정보를 연결하는 멀티모달 AI를 연구하고 있습니다.
 
-## Featured projects
+작은 의료 데이터에서도 재현 가능하고 해석 가능한 모델을 만드는 데 관심이 있습니다.
 
-- [Bayesian-GNN-Radiogenomics](https://github.com/hozziii/Bayesian-GNN-Radiogenomics)  
-  Documentation-first portfolio of an MRI–genomics heterogeneous graph study
-  for exploratory IDH mutation prediction.
+I explore multimodal machine learning for biomedical research, with a focus on
+medical imaging, radiogenomics, graph neural networks, and reproducible
+experimentation for small clinical cohorts.
 
-- [Carely](https://github.com/hozziii/Carely)  
-  Public project materials are being prepared.
-
-- [KoongLog](https://github.com/hozziii/KoongLog)  
-  Public project materials are being prepared.
-
-## Research interests
+## Research Interests
 
 - Medical imaging and radiogenomics
-- Graph neural networks
+- Heterogeneous graph neural networks
 - Multimodal representation learning
 - Reproducible machine-learning experiments
 
-Selected code and data may remain private where research-data agreements,
-privacy, or licensing restrictions apply.
+## Featured Projects
+
+| Project | Contribution | Stack |
+| --- | --- | --- |
+| [Bayesian-GNN-Radiogenomics](https://github.com/hozziii/Bayesian-GNN-Radiogenomics) | MRI–genomics heterogeneous graph study for exploratory IDH mutation prediction. Public portfolio includes methodology, architecture, and aggregate results while research code and patient-level data remain private. | PyTorch, PyTorch Geometric, scikit-learn, pandas |
+| [KoongLog Backend](https://github.com/koonglog/backend) | Backend contributor for an AI/IoT inter-floor-noise mediation system. Contributed APIs, analytics endpoints, data-model expansion, and integration fixes across 75 public commits. | FastAPI, SQLAlchemy, Pydantic, SQLite, Railway |
+| [AI-BE](https://github.com/sswu-gen-ai-18/AI-BE) | AI backend contributor for a speech and Korean emotion-processing pipeline. Worked on KoBERT integration, neutral-class thresholds, file processing, and deployment fixes across 25 public commits. | FastAPI, PyTorch, Transformers, KoBERT, LangChain |
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Research Portfolio
+
+The public [Bayesian-GNN-Radiogenomics](https://github.com/hozziii/Bayesian-GNN-Radiogenomics)
+repository documents the research question, heterogeneous graph architecture,
+experimental design, selected cross-validation results, and study limitations.
+Implementation and data remain private when required by research-data access,
+privacy, or licensing conditions.
+
+## Contact
+
+- GitHub: [@hozziii](https://github.com/hozziii)
