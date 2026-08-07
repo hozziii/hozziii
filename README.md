@@ -43,6 +43,11 @@ experimental design, selected cross-validation results, and study limitations.
 Implementation and data remain private when required by research-data access,
 privacy, or licensing conditions.
 
+## Awards
+
+- KCC 2026 — Encouragement Award (장려상)
+
 ## Contact
 
 - GitHub: [@hozziii](https://github.com/hozziii)
+- Email: [nohh01089@gmail.com](mailto:nohh01089@gmail.com)
